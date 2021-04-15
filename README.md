@@ -3,6 +3,18 @@
 
 I am studying Computer Science, already with the purpose of becoming a Front-end and Back-end developer.
 
+I seek knowledge daily to be always up to date with the market. The languages I most identify with are:
+- Javascript
+- PHP
+- NodeJS
+- JAVA
+- ReactJS
+- VueJS
+
+I have some private web design projects in progress that I will soon put in my portfolio.
+
+I like to study, watch, series, play video games and be with my family. I have been passionate about programming since I was young and my dream is to be able to practice as a developer.
+
 ### Courses taken so far:
 
 - [Web Design Completo - Origamid](https://www.origamid.com/certificate/8b036225/)
