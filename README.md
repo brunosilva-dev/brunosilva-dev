@@ -27,7 +27,7 @@ I have some private web design projects in progress that I will soon put in my p
 [<img src="https://img.shields.io/badge/brunosilva-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brunosilvadevel)
 [<img src="https://img.shields.io/badge/brunosilva-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brunosilva-fullstack/)
 [<img src = "https://img.shields.io/badge/brunosilva-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bsilva.dev/)
-[<img src = "https://img.shields.io/badge/brunosilva-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gkfcreative/)
+[<img src = "https://img.shields.io/badge/geekflowcreative-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gkfcreative/)
 [<img src = "https://img.shields.io/badge/brunosilva-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/brunosilva.dvlopr)
 
 ### :octocat: GitHub Stats
