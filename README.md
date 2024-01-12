@@ -11,7 +11,7 @@
 - ✔️ Studying **PHP, GO, Node** on Udemy  
 
 - 🎓 Studying Postgraduate in **Software Engineering** at FIB
-- Atualmente mais focado em:
+- Currently more focused on:
 
 <div style="display: inline">
   <img width="100" heigth="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
